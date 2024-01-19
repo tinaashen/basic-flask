@@ -1,0 +1,9 @@
+name: eenv
+channels:
+  - defaults
+dependencies:
+  - flask
+  - pandas
+  - scipy
+  - matplotlib
+  - ipykernel
