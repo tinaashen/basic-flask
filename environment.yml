@@ -1,8 +1,11 @@
-name: flask_env
+name: app_env
 channels:
   - defaults
 dependencies:
   - flask
+  - yaml
+  - flask_wtf
+  - Flask-Uploads
   - pip
   - nbformat
   - ipython
