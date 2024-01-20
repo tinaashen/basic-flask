@@ -1,4 +1,4 @@
-name: eenv
+name: flask_env
 channels:
   - defaults
 dependencies:
